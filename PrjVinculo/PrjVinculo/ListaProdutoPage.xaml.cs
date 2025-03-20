@@ -6,7 +6,7 @@ public partial class ListaProdutoPage : ContentPage
 	{
 		List<Produto> lista = new List<Produto>();
 
-
+		oi
 		InitializeComponent();
 	}
 }
